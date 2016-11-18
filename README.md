@@ -1,6 +1,6 @@
 # hello-world
 my first github repository
-
-Hi there!
+hahahahaha...
+Hi U!
 
 this line is added in branch "new" ;)
